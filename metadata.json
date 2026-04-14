@@ -1,0 +1,6 @@
+{
+  "name": "Canon Delay AI Pro",
+  "description": "Advanced AI assistant for Canon service engineers to solve machine issues, reduce reporting time, and eliminate field service delays.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["AI Troubleshooting", "OCR Meter Reading", "Voice Assistant", "Service Report Generator"]
+}
