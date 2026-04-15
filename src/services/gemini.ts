@@ -1,6 +1,6 @@
 import { GoogleGenAI, Type } from "@google/genai";
 
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY || "AIzaSyDWkOvqaMKRanbDxpaC_MfpjuY_v_JJGXs" });
+const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY || "AIzaSyAoh-vqBwRLz0LMgQdbFEkgXyyyHT45Yt8" });
 
 export const SYSTEM_INSTRUCTION = `
 You are "Canon Delay AI Pro", an expert Canon Service Engineer assistant.
